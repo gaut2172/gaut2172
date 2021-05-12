@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Josh Gauthier
 - 👀 I’m interested in software engineering, Java development, fullstack development, and machine learning
 - 🌱 I’m currently learning MEAN stack and AI technologies
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at: joshua.gauthier@snhu.edu
 
 <!---
