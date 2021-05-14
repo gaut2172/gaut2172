@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Josh Gauthier
+### Hi there, I’m Joshua Gauthier 👋
 
 ## I'm a Husband, Father, Student, and Developer
 - 👀 I’m interested in software engineering, Java development, fullstack development, and machine learning
